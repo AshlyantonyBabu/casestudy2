@@ -1,0 +1,31 @@
+{
+  "name": "LIB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "Router": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "multer": "^1.4.2",
+    "nodemon": "^1.19.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshlyantonyBabu/LIB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshlyantonyBabu/LIB/issues"
+  },
+  "homepage": "https://github.com/AshlyantonyBabu/LIB#readme"
+}
